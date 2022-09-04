@@ -68,7 +68,7 @@ const App = () => {
   return (
     <View style={{flex:1, justifyContent:'center', alignItems:'center'}}>
       <Button
-        title='Sign in with Gooogle'
+        title='Sign in with Google'
         onPress={signInWithGoogleAsync}
       />
 
